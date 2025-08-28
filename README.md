@@ -5,10 +5,7 @@
   <img src="https://img.shields.io/badge/Streamlit-1.0+-red.svg" alt="Streamlit">
   <img src="https://img.shields.io/badge/scikit--learn-1.0+-orange.svg" alt="scikit-learn">
   <img src="https://img.shields.io/badge/XGBoost-1.0+-green.svg" alt="XGBoost">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
   <br>
-  <img src="https://img.shields.io/github/stars/shubhamaher8/Loan-Default-ML-Model?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/shubhamaher8/Loan-Default-ML-Model?style=social" alt="GitHub Forks">
 </div>
 
 ---
@@ -128,12 +125,7 @@ Then open your browser to `http://localhost:8501` and start predicting! 🎉
 
 ## 📱 Screenshots & Demo
 
-<div align="center">
-
-![Main Interface](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Loan+Default+Prediction+App)
-
-
-</div>
+  <img src="public/dashboard.png" alt="Dashboard Screenshot" width="700"/>
 
 ---
 
@@ -148,12 +140,6 @@ Then open your browser to `http://localhost:8501` and start predicting! 🎉
 ---
 
 ## 📄 License
-
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-</div>
 
 This project is licensed under the MIT License
 
