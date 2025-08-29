@@ -10,6 +10,13 @@
 
 ---
 
+## 🚀 Deployment
+
+[![Deployed on Streamlit Cloud](https://img.shields.io/badge/Deployed%20on-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://loan-default-prediction-ml-model.streamlit.app)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-loan--default--prediction--ml--model-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://loan-default-prediction-ml-model.streamlit.app)
+
+
 ## 🎯 Overview
 
 Welcome to the **Loan Default Prediction ML Model**! 🎉 This cutting-edge machine learning project predicts the risk of loan default using advanced algorithms and a comprehensive dataset. Built with ❤️ using Python, Streamlit, and state-of-the-art ML libraries.
@@ -141,7 +148,7 @@ Then open your browser to `http://localhost:8501` and start predicting! 🎉
 
 ## 📄 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License and is free to use by anyone
 
 
 
